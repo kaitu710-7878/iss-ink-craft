@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "apotheosis"
+    },
+    {
+      "type": "iss_ink_craft:config",
+      "option": "apotheosis_compat"
+    }
+  ],
+  "ingredients": [
+    { "item": "apotheosis:common_material" },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "result": {
+    "item": "irons_spellbooks:common_ink",
+    "count": 1
+  }
+}

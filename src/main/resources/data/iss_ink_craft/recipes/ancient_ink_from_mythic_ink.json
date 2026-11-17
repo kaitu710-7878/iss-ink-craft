@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "forbidden_tiers"
+    },
+    {
+      "type": "iss_ink_craft:config",
+      "option": "forbidden_tiers_compat"
+    }
+  ],
+  "ingredients": [
+    { "item": "forbidden_tiers:mythic_ink" },
+    { "item": "forbidden_tiers:mythic_ink" },
+    { "item": "forbidden_tiers:mythic_ink" },
+    { "item": "forbidden_tiers:mythic_ink" },
+    { "item": "irons_spellbooks:mithril_scrap" }
+  ],
+  "result": {
+    "item": "forbidden_tiers:ancient_ink",
+    "count": 1
+  }
+}

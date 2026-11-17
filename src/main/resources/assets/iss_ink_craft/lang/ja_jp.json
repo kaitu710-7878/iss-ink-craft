@@ -1,0 +1,5 @@
+{
+  "iss_ink_craft.config.enable_base_ink_crafting": "基本インク作業台圧縮を有効化",
+  "iss_ink_craft.config.enable_forbidden_tiers_compat": "Forbidden Tiers連携を有効化",
+  "iss_ink_craft.config.enable_apotheosis_compat": "Apotheosis連携を有効化"
+}

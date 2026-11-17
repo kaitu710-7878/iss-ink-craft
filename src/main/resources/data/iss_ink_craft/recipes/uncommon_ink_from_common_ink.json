@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "irons_spellbooks"
+    },
+    {
+      "type": "iss_ink_craft:config",
+      "option": "base_ink_crafting"
+    }
+  ],
+  "ingredients": [
+    { "item": "irons_spellbooks:common_ink" },
+    { "item": "irons_spellbooks:common_ink" },
+    { "item": "irons_spellbooks:common_ink" },
+    { "item": "irons_spellbooks:common_ink" },
+    { "tag": "forge:ingots/copper" }
+  ],
+  "result": {
+    "item": "irons_spellbooks:uncommon_ink",
+    "count": 1
+  }
+}
