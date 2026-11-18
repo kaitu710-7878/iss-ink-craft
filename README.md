@@ -37,7 +37,7 @@
 
 ### License
 
-This mod is licensed under a dual-license model: **GNU General Public License v3.0 or later (GPL-3.0-or-later)**, or **MIT**, or **LGPL-2.1-or-later** to maintain compatibility with integrated mods (Apotheosis: MIT, Forbidden Tiers: LGPL-2.1-or-later). See [LICENSE](LICENSE), [LICENSE-GPL-3.0](LICENSE-GPL-3.0), [LICENSE-MIT](LICENSE-MIT), and [LICENSE-LGPL-2.1](LICENSE-LGPL-2.1) for the full texts.
+This mod is licensed under the **GNU General Public License v3.0 or later (GPL-3.0-or-later)**. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -74,4 +74,4 @@ This mod is licensed under a dual-license model: **GNU General Public License v3
 
 ### ライセンス
 
-本MODは、連携対象MOD（Apotheosis: MIT、Forbidden Tiers: LGPL-2.1-or-later）との整合性を保つため、**GPL-3.0-or-later / MIT / LGPL-2.1-or-later** のデュアルライセンス構成で提供されています。各ライセンスの全文は [LICENSE](LICENSE)、[LICENSE-GPL-3.0](LICENSE-GPL-3.0)、[LICENSE-MIT](LICENSE-MIT)、[LICENSE-LGPL-2.1](LICENSE-LGPL-2.1) を参照してください。
+本MODは **GNU General Public License v3.0 or later (GPL-3.0-or-later)** のもとで公開されています。詳細は [LICENSE](LICENSE) を参照してください。
